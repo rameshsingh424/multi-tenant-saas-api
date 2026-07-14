@@ -1,6 +1,8 @@
 # Multi-Tenant SaaS API
 
-> A secure, scalable backend architecture for building organization-based SaaS applications with tenant isolation, authentication, role-based access control, audit logging, background processing, and configurable platform policies.
+A reference architecture and implementation roadmap for building a secure multi-tenant SaaS backend using NestJS, TypeScript, PostgreSQL, Prisma, JWT, RBAC, Docker and Swagger.
+
+The repository is being developed incrementally into a working portfolio-grade API.
 
 ## Table of Contents
 
